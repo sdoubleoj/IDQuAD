@@ -1,0 +1,1 @@
+This folder contains the core processes for generating the dataset, focusing on the essential steps QA pair generation. Data collection and preprocessing steps have been omitted for simplicity.
