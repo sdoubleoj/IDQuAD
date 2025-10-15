@@ -4,9 +4,12 @@ This is the implementation of the submission "IDQuAD: Infectious Disease Questio
 
 ### Configure the environment
 
+
 ### Process Dataset
 
+
 ### Run and Test
+
 
 ### Citation
 
