@@ -2,13 +2,13 @@
 
 This is the implementation of the submission "IDQuAD: Infectious Disease Question and Answering Dataset".
 
-## Configure the environment
+### Configure the environment
 
-## Process Dataset
+### Process Dataset
 
-## Run and Test
+### Run and Test
 
-## Citation
+### Citation
 
 If the code and the paper are useful for you, it is appreciable to cite our paper:
 
